@@ -34,7 +34,7 @@ second = "MX3D!"
 Write a script that prints "Hello MX3D!" using the variables a and b
 
 
-## List and iteration (15m)
+## List and iteration (10m)
 
 Let's define a list:
 ```
@@ -99,8 +99,7 @@ Hint: use chatgpt
 
 ## Demo: Save as google sheet:
 
-Save the csv to a xlsx or to google sheet.
-Easiest way is upload
+Upload the csv to google drive with and convert it to a google sheet.
 
 ## Challenge 3: PixelFlut
 See example.py in the PixelFlut folder for challenges. 
@@ -110,7 +109,7 @@ See example.py in the PixelFlut folder for challenges.
 
 
 
-reusability
+<!-- reusability
 exercise
 Modules/imports (10m)
 explain
@@ -133,6 +132,6 @@ server
 scraping
 numpy
 excel
-ipython
+ipython -->
 
 
