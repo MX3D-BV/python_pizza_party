@@ -10,11 +10,15 @@ def write_file(file_path, lines):
         file.writelines(lines)
 
 
-def add_custom_call(lines, procedure_name='Scan', interval=1):
+def add_custom_call(lines, procedure='Scan', interval=5):
     """
-    This function adds the a call to a custom Rapid Procedure after every 'interval' welds
+    This function adds a call to custom Rapid Procedure after every 'interval' welds
     """
-    return lines
+    # TODO: Implement this function!
+    output = []
+    for i, line in enumerate(lines):
+        output.append(line)
+    return output
 
 
 if __name__ == "__main__":
