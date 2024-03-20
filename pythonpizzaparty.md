@@ -1,6 +1,6 @@
 # Python Pizza Session
 
-## Start (15m)
+## Start 
 Disclaimer: this is meant to be fun and light, not a thurough and strict course of Python.
 
 Verify Everybody has Python installed.
@@ -13,14 +13,14 @@ Open a python shell and type:
 print(hello MX3D!)
 ```
 
-## Script (10m)
+## Script 
 
 Run code from a file
 
 ### Assignment:
 Put the code from before in a file `hello.py` and run with `python hello.py`
 
-## Variables (10m)
+## Variables
 Python variables are simply containers for storing data values
 
 ```
@@ -34,7 +34,7 @@ second = "MX3D!"
 Write a script that prints "Hello MX3D!" using the variables a and b
 
 
-## List and iteration (10m)
+## List and iteration
 
 Let's define a list:
 ```
